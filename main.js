@@ -44,7 +44,7 @@ myAverage = 0;
 //* The loop doesnt stop after all 7 numbers have been added causing myAverage to become assigned 'NaN' *//
 
 
-//* for (let i = 0; i === myGrades.length; i++) { *//
+//* for (let i = 0; i < myGrades.length; i++) { *//
 
 //* myAverage += myGrades[i]; *//
 
